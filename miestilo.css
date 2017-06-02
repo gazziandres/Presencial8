@@ -1,0 +1,141 @@
+	body{
+			padding-top: 10px;	
+			background-color: #eeeeee;
+
+
+		}
+		.video{
+			width: 45%;
+			margin-left: 5%;
+		}
+
+		.navbar-right{
+			margin-right: 15%;
+			font-size: 20px;
+		}
+		.navbar-right li{
+			padding-left: 30px;
+		}
+		.navbar-header img{
+			float: left;
+			height: 70px;
+			width: 70px;
+			border-radius: 50%;
+			margin-left: 70px;
+		}
+		.brand{
+			padding-left: 150px;
+			position: fixed;
+
+		}
+		.jumbotron{
+			height: 210px;
+			margin-top: 50px; 
+			margin-bottom: 50px;
+			background-image: url(imagenes/pinkdust.png);
+		}
+		.jumbotron h1 {
+			color: white; 
+		}
+		.jumbotron h2 {
+			color: white;
+		}
+		.thumbnail span{
+			color: red;
+			font-weight: bold;
+		}
+		.thumbnail{
+			font-family: 'Roboto', sans-serif;
+			color: #000000;
+			padding: 20px;
+		}
+		.formulario{
+			margin-left: 5%;
+		}
+		.btn-fb{
+			background-color: rgb(59,89,152);
+			color: white;
+			margin: 2%;
+			margin-right: 0%;
+		}
+		.btn-tw{
+			background-color: rgb(29,202,255);
+			color: white;
+			margin: 2%;
+		}
+		.btn-ins{
+			background-color: rgb(233,89,80);
+			color: white;
+			margin: 2%;
+		}
+
+		.informacion ul{
+			list-style-type: none;
+			display: block;
+			overflow: hidden;
+
+		}
+		.informacion{
+			margin-left: 7%;
+		}
+
+		.informacion li{
+			float:left;
+		}
+		.carousel{
+			height: 300px;
+			background-image: url(imagenes/congruent_pentagon.png);
+			
+		}
+		.carousel-inner{
+			height: 300px;
+			margin-left: 30%;
+		}
+		.autismo img{
+			height: 300px;
+			max-width: 100%;
+		}
+		.asperger img{
+			height: 300px;
+			max-width: 100%;
+		}
+		.clase img{
+			height: 300px;
+			max-width: 100%;
+		}
+		.container h1{
+			color: darkorange;
+		}
+		
+		.foto1{
+			margin: 5px;
+			text-align: center;
+		}
+		.lolo{
+			text-align: center;
+		}
+		.lola{
+			text-align: center;
+		}
+
+		.donacion img{
+
+			width: 200px;
+			height: 200px;
+		}
+		
+		.habilidades{
+			margin-top: 20px;
+		}
+		.jorge{
+			margin-top: 20px;
+		}
+		.voluntarios{
+			margin-top: 20px;
+		}
+			hr {
+  			height: 2px;
+  			background-color: darkblue;
+		}
+	
+
